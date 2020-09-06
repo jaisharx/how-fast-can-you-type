@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "How fast can you type is a javascript game for your typing skills.",
   "scripts": {
-    "test": "live-server src"
+    "start": "live-server src"
   },
   "repository": {
     "type": "git",
