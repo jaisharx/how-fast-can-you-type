@@ -1,0 +1,19 @@
+{
+  "name": "how-fast-can-you-type",
+  "version": "1.0.0",
+  "description": "How fast can you type is a javascript game for your typing skills.",
+  "scripts": {
+    "test": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/how-fast-can-you-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/how-fast-can-you-type/issues"
+  },
+  "homepage": "https://github.com/jaisharx/how-fast-can-you-type#readme"
+}
