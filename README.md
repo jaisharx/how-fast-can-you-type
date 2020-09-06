@@ -1,7 +1,7 @@
 # How fast can you type?
 How fast can you type is a javascript game for your typing skills.
 
-<!-- <img src="preview.png"> -->
+<img src="preview.png">
 
 ## Usage
 
