@@ -66,11 +66,26 @@ select:focus, button:focus, input:focus {
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
 }
 
+@media (max-width: 520px){
+    .container {
+        padding: 10px;
+        background-color: #2c3e50;
+        box-shadow: none;
+    }
+}
+
 h2 {
     padding: 8px;
     border-radius: 4px;
     margin: 0 0 70px;
     background-color: rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 520px){
+    h2 {
+        margin: 0 0 80px;
+        font-size: 18px;
+    }
 }
 
 h1 {
@@ -90,13 +105,13 @@ input {
 .score-container {
     position: absolute;
     top: 68px;
-    right: 20px;   
+    right: 20px;
 }
 
 .time-container {
     position: absolute;
     top: 68px;
-    left: 20px;   
+    left: 20px;
 }
 
 .end-game-container {
